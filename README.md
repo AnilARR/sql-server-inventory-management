@@ -213,8 +213,19 @@ SELECT * FROM vw_ProductPerformance;
 
 ## Author
 
-Designed and developed as a portfolio project to demonstrate enterprise-level SQL Server database design, implementation, optimization, and reporting skills.
+## Author
+
+**Anil Rathod**
+
+Designed and developed by Anil Rathod as a portfolio project to demonstrate enterprise-level SQL Server database design, implementation, optimization, performance tuning, and reporting skills.
+
+### Connect with Me
+
+* GitHub: https://github.com/AnilARR/
+* LinkedIn: https://www.linkedin.com/in/anil-rathod-981bb612a/
+  
 
 ---
 
-⭐ Star this repository if you found it useful.
+⭐ If you found this project useful, consider giving it a star.
+
